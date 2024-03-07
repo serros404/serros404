@@ -1,4 +1,4 @@
-<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" align="right" height="100" /></a><div>
+<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" align="right" height="180" /></a><div>
     <div>
         <h3 style="margin-bottom: 5px;">Olá! Eu sou o Juan Serros! 👨🏻‍💻</h3>
         <div >
