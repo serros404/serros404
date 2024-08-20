@@ -1,10 +1,8 @@
-<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" align="right" height="180" /></a><div>
+<div>
     <div>
         <h3 style="margin-bottom: 5px;">Olá! Eu sou o Juan Serros! 👨🏻‍💻</h3>
         <div >
             <a href="https://www.linkedin.com/in/juanserros404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-            <a href="https://medium.com/@serros404"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-        </div>
     </div>
 </div>
 <hr>
