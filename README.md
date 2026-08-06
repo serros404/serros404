@@ -29,7 +29,7 @@ Latest reports:
 
 ## Current role
 
-**Infrastructure Analyst (Apprentice)**, Bellinzoni Brasil — *May 2025–present*
+**Infrastructure Analyst**, Bellinzoni Brasil — *May 2025–present*
 
 Administer and harden network infrastructure, systems, and access permissions; keep core services (TCP/IP, DNS, DHCP, VLANs) and Windows Server/Active Directory environments running and patched.
 
