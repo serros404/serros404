@@ -1,6 +1,6 @@
 <h1 align="center">Juan Serros</h1>
 <p align="center">
-  <strong>Offensive Security · Web & API Security · Pentest · Bug Bounty</strong>
+  <strong>Security Researcher · Application Security · Web & API Security</strong>
 </p>
 
 I am an Offensive Security researcher based in Rio de Janeiro, Brazil. I break and secure web applications and APIs, reading through PHP, C#, and JavaScript codebases to find what automated scanners miss — authentication flaws, business logic abuse, and the browser and network layers underneath modern web apps.
@@ -9,7 +9,7 @@ Alongside my day job, I run offensive security research and practical write-ups 
 
 ## Experience
 
-**Security Researcher (Web & API)**, 0xDelta Research — *2025–present*
+**Security Researcher**, 0xDelta Research — *2025–present*
 
 Contribute web and API security research and technical write-ups at [0xDelta Research](https://0xdelta.org), a community of security researchers covering Red Team, Blue Team, and Threat Intelligence. Focus areas: access control vulnerabilities, API security, and responsible disclosure.
 
